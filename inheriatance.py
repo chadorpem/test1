@@ -54,8 +54,8 @@ class Student(Person):
 
 
 # Creating objects
-teacher1 = Teacher("Mr. Johnson", 35, "T001", "Mathematics", 60000, "Math Dept", "Senior Lecturer")
-student1 = Student("Emma", 20, "S001", "ST001", "Computer Science", 2, 3.8)
+teacher1 = Teacher("Mr. kinley", 25, "T001", "engineering machanic", 60000, "machanical Dept", "Senior Lecturer")
+student1 = Student("deki", 12, "S001", "ST001", "Computer Science", 2, 3.8)
 
 # Accessing specific behaviors and attributes
 teacher1.teach()
