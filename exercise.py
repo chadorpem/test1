@@ -5,3 +5,5 @@ if eligible:
     print ('you are eligible for movie ticket discount')
 else:
     print('you are not eligible for movie ticket')
+
+     
